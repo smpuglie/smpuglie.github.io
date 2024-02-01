@@ -21,14 +21,16 @@
 title: Sarah Pugliese
 email: smpuglie [at] uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  (website under construction!!)
+  Neuroscience PhD student @ University of Washington
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sarahpugly
 github_username:  smpuglie
+github:
+  is_project_page: false
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
