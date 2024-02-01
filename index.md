@@ -11,6 +11,6 @@ layout: homepage
 
 <!-- #### Neuroscience PhD student @ University of Washington -->
 
-Hello! I am a second-year PhD student hoping to use my training in applied mathematics and neuroscience to improve our understanding of how brains and bodies work. I am using connectomics data and biomechanical modeling to understand the neural control of locomotion.
+Hello! I am a second-year PhD student hoping to use my training in applied mathematics and neuroscience to improve our understanding of how brains and bodies work. I am combining connectomics data and biomechanical modeling to understand the neural control of locomotion.
 
-[CV](/files/SMPugliese_CV_20231108.pdf)
+**[CV](/files/SMPugliese_CV_20231108.pdf)**
