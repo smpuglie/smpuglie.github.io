@@ -320,7 +320,7 @@ a:hover { text-decoration: underline; }
 .main-content dl dd { padding: 0; margin-bottom: 1rem; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
-.site-footer { padding-top: 5rem; margin-top: 2rem; }
+.site-footer { padding-top: 3rem; margin-top: 2rem; }
 /* .site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #417f8e; } */
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
