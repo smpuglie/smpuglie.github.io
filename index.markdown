@@ -5,7 +5,7 @@
 layout: homepage
 ---
 
-<img style="float: left; margin-right: 50px; margin-left: 50px; margin-top: 20px; margin-bottom: 20px" src="/images/me.jpg" alt="photo of me" width="200"/>
+<img style="float: left; margin-right: 50px; margin-left: 50px; margin-top: 20px; margin-bottom: 20px;" src="/images/me.jpg" alt="photo of me" width="200"/>
 <!-- <img src="/images/me.jpg" alt="photo of me" width="240"/> -->
 
 
