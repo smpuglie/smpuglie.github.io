@@ -27,7 +27,7 @@ audio:not([controls]) { display: none; height: 0; }
 
 /* Links ========================================================================== */
 /** Remove the gray background color from active links in IE 10. */
-a { background-color: transparent; }
+a { background-color: transparent; font-weight: 400;}
 
 /** Improve readability when focused and also mouse hovered in all browsers. */
 a:active, a:hover { outline: 0; }
@@ -444,6 +444,7 @@ a:hover { text-decoration: underline; }
   input:checked ~ .trigger {
     display: block;
     padding-bottom: 5px;
+    padding-right: 10px;
   }
 
   .page-link {

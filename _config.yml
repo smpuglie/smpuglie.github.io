@@ -37,6 +37,7 @@ plugins:
 
 header_pages:
   - research.md
+  - publications.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

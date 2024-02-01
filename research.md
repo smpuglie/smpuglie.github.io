@@ -5,7 +5,10 @@ permalink: /research/
 ---
 
 <!-- ## Current research -->
-I am using computational approaches to study the structure and function of locomotor circuits in the *Drosophila* ventral nerve cord (VNC, a spinal cord analog). I use synapse-level connectome datasets as a basis for modeling neural activity in the VNC, and have started to work with a biomechanical model to simulate the fly’s kinematics. I hope that the connectome can provide big-picture insights into the organization of the motor system and generate some predictions I can test in real flies. I am co-advised by [John Tuthill](https://faculty.washington.edu/tuthill/index.html) and [Bing Brunton](https://www.bingbrunton.com/).
+
+
+
+I am using computational approaches to study the structure and function of locomotor circuits in the fly ventral nerve cord (VNC, a spinal cord analog). *Drosophila melanogaster* is currently the most complex adult animal to have complete synapse-resolution neural wiring diagrams, called *connectomes*, of its brain and VNC. I use these [connectome](https://www.sciencedirect.com/science/article/pii/S0092867420316834?via%3Dihub) [datasets](https://www.biorxiv.org/content/10.1101/2023.06.05.543757v1) as a basis for modeling neural activity in the VNC. I am especially interested in how descending neurons from the brain converge onto premotor circuits that transform these "walk forward" or "turn left" signals into coordinated muscle movements, and what role proprioceptive reflex circuits within the VNC play in modulating this circuit. I have also started to incorporate a biomechanical model to simulate the fly’s kinematics. I hope that the connectome can provide big-picture insights into the organization of the motor system and generate some predictions I can test in real flies. I am co-advised by [John Tuthill](https://faculty.washington.edu/tuthill/index.html) and [Bing Brunton](https://www.bingbrunton.com/).
 
 <center><br><h2>Past projects</h2></center>
 
