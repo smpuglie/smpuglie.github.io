@@ -10,7 +10,7 @@ Hello! I am a second-year PhD student hoping to use my training in applied mathe
 
 **[CV](/files/SMPugliese_CV_20231108.pdf)**
 
-### Education
+<center><h3>Education</h3></center>
 **Graduate Program in Neuroscience**, University of Washington (2022-present)
 
 **Sc.B. in Applied Mathematics-Biology**, Brown University (2020)
