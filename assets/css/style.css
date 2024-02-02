@@ -461,7 +461,7 @@ a:hover { text-decoration: underline; }
     margin-left: 20px;
   }
 
-  @media screen and (min-width: 42em) {
+  @media screen {
     position: static;
     float: right;
     border: none;
