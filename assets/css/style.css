@@ -501,8 +501,9 @@ a:hover { text-decoration: underline; }
   float: left;
   padding: 2em;
 }
-.left {
+.left-sidebar {
   width: 25%;
+  text-align: center;
 }
 .right {
   width: 75%;
