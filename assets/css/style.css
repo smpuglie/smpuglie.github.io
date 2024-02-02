@@ -12,7 +12,7 @@ html { font-family: "Spectral", sans-serif; /* 1 */ -ms-text-size-adjust: 100%; 
 /** Remove default margin. */
 body { margin: 0; }
 
-/* HTML5 display definitions ========================================================================== */
+/* HTML5 display definitions ========================================s================================== */
 /** Correct `block` display not defined for any HTML5 element in IE 8/9. Correct `block` display not defined for `details` or `summary` in IE 10/11 and Firefox. Correct `block` display not defined for `main` in IE 11. */
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
 
@@ -205,7 +205,7 @@ td, th { padding: 0; }
 .highlight .se { color: #d14; }
 
 .highlight .sh { color: #d14; }
-
+s
 .highlight .si { color: #d14; }
 
 .highlight .sx { color: #d14; }
@@ -335,13 +335,13 @@ a:hover { text-decoration: underline; }
 .main-content dl dd { padding: 0; margin-bottom: 1rem; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
-.site-footer { padding-top: 3rem; margin-top: 2rem;  }
+.site-footer { margin-top: 2rem;  }
 /* .site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #417f8e; } */
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
 
-.site-footer-owner { display: block; font-weight: bold; }
+/* .site-footer-owner { display: block; font-weight: bold; } */
 
 .site-footer-credits { color: #819198; }
 
@@ -403,7 +403,7 @@ a:hover { text-decoration: underline; }
 .site-nav {
   position: absolute;
   top: 9px;
-  right: 9px;
+  right: 15px;
   background-color: #417f8e;
   border: 1px solid ; 
   font-weight: bold;
@@ -422,9 +422,9 @@ a:hover { text-decoration: underline; }
     padding-top: 10px;
     text-align: center;
 
-    /* > svg path {
-      fill: $border-color-03;
-    } */
+    > svg path {
+      fill: #162a2f;
+    }
   }
 
   label[for="nav-trigger"] {
@@ -444,15 +444,15 @@ a:hover { text-decoration: underline; }
   input:checked ~ .trigger {
     display: block;
     padding-bottom: 5px;
-    padding-right: 10px;
+    /* padding-right: 10px; */
   }
 
   .page-link {
     color: #CFE6ED;
     /* line-height: $base-line-height; */
     /* line-height: 2em; */
-    /* display: block; */
-    /* padding: 5px 10px; */
+    display: block;
+    padding: 5px 10px;
 
     /* // Gaps between nav items, but not on the last one */
     &:not(:last-child) {
@@ -495,3 +495,25 @@ a:hover { text-decoration: underline; }
   border-top: 1px solid;
   padding: 30px 0;
 } */
+
+/* COLUMN */
+.column {
+  float: left;
+  padding: 2em;
+}
+.left {
+  width: 25%;
+}
+.right {
+  width: 75%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 42em)  {
+  .column {
+    width: 100%;
+  }
+}

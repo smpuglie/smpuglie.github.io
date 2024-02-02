@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
+
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     {%- include header.html -%}
@@ -29,13 +30,17 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
-
-      
-       <footer class="site-footer">
+      <div class="column left">
+        <img class="circular--square"; margin-right: 50px; margin-left: 50px; margin-top: 20px; margin-bottom: 20px;" src="{{ page.headshot-src }}" alt="photo of me" width="200" display=block/>
         {%- include footer.html -%}
+      </div>
+      <div class="column right">
+        {{ content }}
+      </div>
+       <!-- <footer class="site-footer"> -->
+        
         <!-- <span><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.email }}</a></span><br> -->
-      </footer>
+      <!-- </footer> -->
     </main>
   </body>
 </html>

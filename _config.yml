@@ -21,7 +21,7 @@
 title: Sarah Pugliese
 email: smpuglie [at] uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Neuroscience PhD student @ University of Washington
+  Neuroscience PhD student @ University of Washington, Seattle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
