@@ -15,14 +15,14 @@ I am using computational approaches to study the structure and function of **mot
 
 <center>
 <br><h2>Past projects</h2>
-    <h3>Behavioral states and accumulation of sensory evidence in <i>C. elegans</i></h3>
     <img style="margin-right: 20px; margin-left: 20px; max-width: 20em" src="/images/Website worm.svg" alt="drawing of a worm encountering road signs that warn of dangers"/>
+    <h3>Behavioral states and accumulation of sensory evidence in <i>C. elegans</i></h3>
 </center>
 Before graduate school, I worked for 2 years as a research technician in the [Flavell Lab](https://flavell.mit.edu/) at MIT. With postdoctoral researcher Dr. Saba Baskoylu, I studied the way that worms (*C. elegans*) change their behavior when they **accumulate evidence that their environment is undesirable**. The long-term goal of the project was to identify circuit mechanisms by which the nervous system produces an enduring change in mapping from sensory input to behavioral responses. To investigate this, I ran experiments where I optogenetically activated nociceptive sensory neurons and examined the animals’ behavioral responses, as well as companion assays using natural stimuli that the worms find aversive. I also assisted with several other projects in the lab to help quantify neuromodulatory effects on the worms’ locomotion and navigation.
 
 
 <center>
-    <h3>Computational modeling of EEG/MEG currents in human neocortex</h3>
     <img style="margin-right: 20px; margin-left: 20px; max-width: 16em" src="/images/Website EEG.svg" alt="drawing of me with EEG electrodes on, showing neurons in my head and a computer simulation of those neurons"/>
+    <h3>Computational modeling of EEG/MEG currents in human neocortex</h3>
 </center>
 Electroencephalography (EEG) and magnetoencepholography (MEG) recordings are easy and non-invasive to obtain, and can provide useful biomarkers for clinicians, but it is difficult to understand how the underlying network activity in the brain generates the waveforms you can observe outside of the head. As an undergraduate in the [Jones Lab](https://sites.brown.edu/stephanie-r-jones-lab/) at Brown University, I built upon the computational model the lab had developed to relate electrical currents from cortical pyramidal neurons to recorded EEG/MEG signals in order to simulate the **contributions of dendritic calcium spikes to these waveforms**. I updated the model layer 5 pyramidal neurons' calcium channels to better fit electrophysiological recordings of these cells in other mammals, then examined the effects of calcium events on the simulated source-localized EEG signal. The improved model replicated [findings in rats](https://www.nature.com/articles/s41467-017-00282-4) that dendritic calcium spikes have a distinct signature in surface recordings, and found that generally the sustained electrical activity in the distal dendrites during a dendritic calcium spike pushes a significant amount of current down the apical dendrite.
