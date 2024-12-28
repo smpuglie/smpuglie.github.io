@@ -43,7 +43,7 @@ b, strong { font-weight: bold; }
 dfn { font-style: italic; }
 
 /** Address variable `h1` font-size and margin within `section` and `article` contexts in Firefox 4+, Safari, and Chrome. */
-h1 { font-family: "Fraunces"; font-size: 2em; margin: 0.67em 0; color: #2b1e17}
+h1 { font-family: "Fraunces"; font-size: 2em; margin: 0.67em 0; color: #2b1e17; font-weight: 540}
 h2 { color: #162a2f; }
 h3 { color: #417f8e}
 /** Address styling not present in IE 8/9. */
