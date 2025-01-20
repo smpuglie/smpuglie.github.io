@@ -12,4 +12,4 @@ R. G. Law, **S. Pugliese**, H. Shin, D. D. Sliva, S. Lee, S. Neymotin, C. Moore,
 
 <center><h2>Preprints</h2></center>
 
-T. S. Kramer, F. K. Wan, S. M. Pugliese, A. A. Atanas, A. W. Hiser, J. Luo, E. Bueno, S. W. Flavell, [Neural Sequences Underlying Directed Turning in C. elegans](https://doi.org/10.1101/2024.08.11.607076). *bioRxiv* (2024).
+T. S. Kramer, F. K. Wan, **S. M. Pugliese**, A. A. Atanas, A. W. Hiser, J. Luo, E. Bueno, S. W. Flavell, [Neural Sequences Underlying Directed Turning in C. elegans](https://doi.org/10.1101/2024.08.11.607076). *bioRxiv* (2024).
