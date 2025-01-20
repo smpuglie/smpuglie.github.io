@@ -276,7 +276,10 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #2b1e17; text-align: center; background-image: linear-gradient(120deg, #417f8e, #c8bfab); }
+  /* #c8bfab, */
+/* .page-header { color: #2b1e17; text-align: center; background-image: linear-gradient(to right, #417f8e, 40%, #c8bfab), linear-gradient(to bottom, rgb(0,0,0,0), #CFE6ED); background-blend-mode: screen;} */
+/* .page-header { color: #2b1e17; text-align: center; background-image: linear-gradient(to right, #417f8e, #c8bfab), linear-gradient(to top, rgb(255,255,255,1), rgba(255, 255, 255, 0)); background-blend-mode: screen;} */
+.page-header { color: #2b1e17; text-align: center; background-image: linear-gradient(to bottom, #417f8e, 30%, #CFE6ED); background-blend-mode: screen;}
 @media screen and (min-width: 64em) { .page-header { padding: 2rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 2rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
