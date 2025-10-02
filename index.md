@@ -6,7 +6,7 @@ layout: homepage
 headshot-src: /images/me.jpg
 ---
 
-Hello! I am a third-year PhD student hoping to use my training in neuroscience and applied mathematics to improve our understanding of how brains and bodies move. I am developing connectome-driven modeling approaches to study the neural control of locomotion in fruit flies. 
+Hello! I am a fourth-year PhD student hoping to use my training in neuroscience and applied mathematics to improve our understanding of how brains and bodies move. I am developing connectome-driven modeling approaches to study the neural control of locomotion in fruit flies. 
 
 <!-- For more details, check out my [research page](research.md) or my [CV](/files/SMPugliese_CV_latest.pdf). -->
 

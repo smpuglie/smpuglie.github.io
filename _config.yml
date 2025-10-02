@@ -77,5 +77,5 @@ social_links:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-gems:
+plugins:
   - jekyll-relative-links
