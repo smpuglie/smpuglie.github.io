@@ -15,4 +15,6 @@ R. G. Law, **S. Pugliese**, H. Shin, D. D. Sliva, S. Lee, S. Neymotin, C. Moore,
 
 <center><h2>Preprints</h2></center>
 
+S. N. Baskoylu, A. Kundra, **S. Pugliese**, J. Kim, K. W. Maher, A. Hiser, F. Meng, C. Estrem, D. Kang, E. Bueno, S. W. Flavell, [Deconstructing a behavioral state: parallel neural integrators control distinct features of an aversive behavioral state in C. elegans](https://doi.org/10.64898/2026.06.04.729906). *bioRxiv* (2026).
+
 **S. M. Pugliese**, G. M. Chou, E. T. T. Abe, D. Turcu, J. K. Lancaster, J. C. Tuthill<sup>†</sup>, B. W. Brunton<sup>†</sup>, [Connectome simulations identify a central pattern generator circuit for fly walking](https://doi.org/10.1101/2025.09.12.675944). *bioRxiv* (2025).
