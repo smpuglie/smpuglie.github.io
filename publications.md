@@ -7,7 +7,7 @@ permalink: /publications/
 
 <center><h2>Articles</h2></center>
 
-**S. M. Pugliese**, G. M. Chou, E. T. T. Abe, D. Turcu, J. K. Lancaster, J. C. Tuthill<sup>†</sup>, B. W. Brunton<sup>†</sup>, [Connectome simulations identify a central pattern generator for fly walking](https://doi.org/10.1038/s41586-026-11195-y). *Nature*, 1–9 (2026).
+**S. M. Pugliese**, G. M. Chou, E. T. T. Abe, D. Turcu, J. K. Lancaster, J. C. Tuthill<sup>†</sup>, B. W. Brunton<sup>†</sup>, [Connectome simulations identify a central pattern generator for fly walking](https://doi.org/10.1038/s41586-026-11195-y). *Nature* (2026).
 
 T. S. Kramer, F. K. Wan, **S. M. Pugliese**, A. A. Atanas, S. Pradhan, A. W. Hiser, L. M. Godinez, J. Luo, E. Bueno, T. Felt, S. W. Flavell, [Neural sequences underlying directed turning in Caenorhabditis elegans](https://doi.org/10.1038/s41593-026-02257-5). *Nature Neuroscience* (2026).
 
