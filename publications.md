@@ -7,6 +7,8 @@ permalink: /publications/
 
 <center><h2>Articles</h2></center>
 
+**S. M. Pugliese**, G. M. Chou, E. T. T. Abe, D. Turcu, J. K. Lancaster, J. C. Tuthill<sup>†</sup>, B. W. Brunton<sup>†</sup>, [Connectome simulations identify a central pattern generator for fly walking](https://doi.org/10.1038/s41586-026-11195-y). *Nature*, 1–9 (2026).
+
 T. S. Kramer, F. K. Wan, **S. M. Pugliese**, A. A. Atanas, S. Pradhan, A. W. Hiser, L. M. Godinez, J. Luo, E. Bueno, T. Felt, S. W. Flavell, [Neural sequences underlying directed turning in Caenorhabditis elegans](https://doi.org/10.1038/s41593-026-02257-5). *Nature Neuroscience* (2026).
 
 U. Dag, I. Nwabudike, D. Kang, M. A. Gomes, J. Kim, A. A. Atanas, E. Bueno, C. Estrem, **S. Pugliese**, Z. Wang, E. Towlson, S. W. Flavell, [Dissecting the functional organization of the C. elegans serotonergic system at whole-brain scale](https://doi.org/10.1016/j.cell.2023.04.023). *Cell* 186, 2574-2592.e20 (2023).
@@ -16,5 +18,3 @@ R. G. Law, **S. Pugliese**, H. Shin, D. D. Sliva, S. Lee, S. Neymotin, C. Moore,
 <center><h2>Preprints</h2></center>
 
 S. N. Baskoylu, A. Kundra, **S. Pugliese**, J. Kim, K. W. Maher, A. Hiser, F. Meng, C. Estrem, D. Kang, E. Bueno, S. W. Flavell, [Deconstructing a behavioral state: parallel neural integrators control distinct features of an aversive behavioral state in C. elegans](https://doi.org/10.64898/2026.06.04.729906). *bioRxiv* (2026).
-
-**S. M. Pugliese**, G. M. Chou, E. T. T. Abe, D. Turcu, J. K. Lancaster, J. C. Tuthill<sup>†</sup>, B. W. Brunton<sup>†</sup>, [Connectome simulations identify a central pattern generator circuit for fly walking](https://doi.org/10.1101/2025.09.12.675944). *bioRxiv* (2025).
